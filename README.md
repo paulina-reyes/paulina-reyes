@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**paulina-reyes/paulina-reyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Paulina, an Artificial Intelligence Engineering student focused on:
 
-Here are some ideas to get you started:
+- Software Engineering
+- Applied AI
+- Machine Learning Systems
+- Distributed Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+Python • Go • FastAPI • LangGraph • Docker • XGBoost
+
+## Contact
+
+LinkedIn
+Email
