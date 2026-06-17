@@ -7,11 +7,11 @@ I'm Paulina, an Artificial Intelligence Engineering student focused on:
 - Machine Learning Systems
 - Distributed Systems
 
-### Technologies
+#### Technologies
 
 Python • Go • FastAPI • LangGraph • Docker • XGBoost
 
-### Contact
+#### Contact
 
 LinkedIn
 Email
