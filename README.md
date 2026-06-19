@@ -13,5 +13,4 @@ Python • Go • FastAPI • LangGraph • Docker • XGBoost
 
 #### Contact
 
-LinkedIn
-Email
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paulina-reyes-dev)
