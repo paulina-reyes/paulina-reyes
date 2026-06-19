@@ -11,6 +11,9 @@ I'm Paulina, an Artificial Intelligence Engineering student focused on:
 
 Python • Go • FastAPI • LangGraph • Docker • XGBoost
 
-#### Contact
+#### Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paulina-reyes-dev)
+<a href="www.linkedin.com/in/paulina-reyes-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
