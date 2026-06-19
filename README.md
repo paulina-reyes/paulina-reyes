@@ -13,7 +13,7 @@ Python • Go • FastAPI • LangGraph • Docker • XGBoost
 
 #### Let's connect!
 
-<a href="https://www.linkedin.com/in/paulina-reyes-dev/">
+<a href="https://www.linkedin.com/in/reyespaulina/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
